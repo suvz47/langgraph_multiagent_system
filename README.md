@@ -1,4 +1,10 @@
-[▶️ Demo Video Walkthrough](https://youtu.be/smPBF8ccoFw)
+<p align="center">
+  <a href="https://youtu.be/smPBF8ccoFw">
+    <img src="https://img.youtube.com/vi/smPBF8ccoFw/0.jpg" alt="Demo Video Walkthrough" width="480"/>
+  </a>
+  <br/>
+  <a href="https://youtu.be/smPBF8ccoFw"><strong>▶️ Watch Demo Video Walkthrough</strong></a>
+</p>
 
 # 🚀 LangGraph Multi-Agent Insurance System
 
