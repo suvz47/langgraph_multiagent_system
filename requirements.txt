@@ -1,0 +1,10 @@
+langgraph
+langchain
+requests
+chromadb
+pydantic
+python-dotenv 
+SQLAlchemy 
+fastapi
+PyPDF2
+pycryptodome
